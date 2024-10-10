@@ -1070,5 +1070,13 @@
     "current_pos": "Student",
     "image": null,
     "bio": "Im a 15 year old always willing to learn and create projects to gain as much experience as I can."
+  },
+  {
+    "name": "Sourav Ramesh",
+    "gh_username": "Sourav8921",
+    "place": "Chalakudy",
+    "current_pos": "Freelance Web Developer",
+    "image": "souravramesh.jpg",
+    "bio": "Im a currently a freelance developer focusing on both web and app development using react & react native, python django."
   }
 ]
